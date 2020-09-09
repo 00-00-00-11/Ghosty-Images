@@ -1,4 +1,5 @@
 <?php 
+	session_start();
 	include("config.php");
 	include("functions.php");
 	include("includes/handlers/login_form.php");
